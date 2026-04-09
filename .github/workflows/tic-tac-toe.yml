@@ -1,0 +1,18 @@
+name: Tic Tac Toe Game
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'tttm:')
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Play Tic Tac Toe
+        uses: alfari16/tic-tac-toe-action@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
