@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- Typing hero: wide canvas + size 20 so long lines are not clipped; semicolons = rotating phrases -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=3FB950&center=true&vCenter=true&width=1024&height=60&repeat=true&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
-
 <p align="center"><sub>Full narrative is in the intro below — the line above rotates so each phrase fits the canvas without clipping.</sub></p>
  
 ### Khurram Shafique
@@ -159,18 +157,21 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
   <img src="https://img.shields.io/badge/Multi--agent-Orchestration%20%26%20tool_use-0D9488?style=for-the-badge" alt="Multi-agent systems" />
 </p>
 
-<p align="left"><em>Badges reflect tools and patterns I use across professional delivery, graduate research, and independent builds — not every stack appears on every repository.</em></p>
+ ### 🛠️ System Architecture: The Full-Stack Bridge
 
-<p align="left"><em>Swap badges in or out so they match what you actually use day to day; accuracy reads more “pro” than a long generic list.</em></p>
+| Layer | Technology | Responsibility |
+| :--- | :--- | :--- |
+| **Frontend** | `Next.js / React` | Real-time tracking & UI Optimistic Updates |
+| **Bridge** | `Redis / WebSockets` | Sub-second event broadcasting |
+| **Backend** | `PHP / Laravel / Django` | Enterprise logic for Starboard & COSMOS |
+| **Data** | `PostgreSQL / Pinecone` | Relational storage & Vector search for AI |
+| **AI Layer** | `OpenAI / LangGraph` | Autonomous agentic workflows |
 
 ---
 
 ## GitHub activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kskhan77&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&title_color=3FB950&icon_color=58A6FF" alt="GitHub stats for kskhan77" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kskhan77&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=3FB950" alt="Most used languages for kskhan77" />
-</p>
+ 
 
 <p align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=kskhan77&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3FB950&fire=58A6FF&currStreakLabel=Current%20streak" alt="Contribution streak for kskhan77" />
