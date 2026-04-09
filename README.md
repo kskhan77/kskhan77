@@ -1,5 +1,30 @@
 <div align="center">
 
+### 🕹️ Play Tic-Tac-Toe vs. AI Agent
+
+<div align="center">
+  <table border="1">
+    <tr>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+0"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/0.png" width="80"/></a></td>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+1"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/1.png" width="80"/></a></td>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+2"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/2.png" width="80"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+3"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/3.png" width="80"/></a></td>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+4"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/4.png" width="80"/></a></td>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+5"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/5.png" width="80"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+6"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/6.png" width="80"/></a></td>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+7"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/7.png" width="80"/></a></td>
+      <td><a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+8"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/main/ttt/8.png" width="80"/></a></td>
+    </tr>
+  </table>
+  <br/>
+  <a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+reset">🔄 Reset Game</a>
+</div>
+
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=3FB950&center=true&vCenter=true&width=1024&height=60&repeat=true&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
 
  
