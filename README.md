@@ -3,8 +3,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=3FB950&center=true&vCenter=true&width=1024&height=60&repeat=true&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
 <p align="center"><sub>Full narrative is in the intro below — the line above rotates so each phrase fits the canvas without clipping.</sub></p>
  
-### Khurram Shafique
-  
+ 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
+  </picture>
+</p>
 <p align="center"><strong>Large-scale application development</strong> — designing and operating <strong>production systems</strong> that combine <strong>modern AI</strong>, <strong>autonomous and multi-agent patterns</strong>, and disciplined software engineering from architecture through deployment.</p>
 
 **Principal focus:** **scalable, data-driven platforms** for demanding operational domains — especially **real-time logistics and transportation technology** — where **LLM-based agents**, **retrieval-grounded automation**, and **rigorous full-stack craft** have to work together under real load.
@@ -207,14 +213,6 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
   <img width="720" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote card (Tokyo Night theme)" />
 </p>
 
-<p align="center"><strong>Contribution Snake</strong></p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/output/github-snake.svg" />
-  </picture>
-</p> 
  
 
 <p align="center"><strong>Quick break</strong></p>
