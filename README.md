@@ -1,11 +1,17 @@
  <div align="center">
 
 <!-- Hero: animated typing (readme-typing-svg by DenverCoder1) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=3FB950&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Full+Stack+Developer+%26+MS+AI+Student;LLMs%2C+agents%2C+logistics+platforms%2C+%26+immersive+tech" alt="Hi, I'm Khurram — Full Stack Developer & MS AI Student" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=3FB950&center=true&vCenter=true&width=780&height=55&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
 
 ### Khurram Shafique
 
-**Full-stack engineer and MS Artificial Intelligence student** (University of Michigan–Flint). I build **data-driven platforms** for complex operational workflows — from real-time logistics systems to **LLM-powered agents** and **AR/VR** experiments — with a focus on reliability, clarity, and measurable impact.
+<p align="center"><strong>Large-scale application development</strong> — designing and operating <strong>production systems</strong> that combine <strong>modern AI</strong>, <strong>autonomous and multi-agent patterns</strong>, and disciplined software engineering from architecture through deployment.</p>
+
+**Principal focus:** **scalable, data-driven platforms** for demanding operational domains — especially **real-time logistics and transportation technology** — where **LLM-based agents**, **retrieval-grounded automation**, and **rigorous full-stack craft** have to work together under real load.
+
+Since **2009**, I have built and evolved **web applications** end to end across the **United States** market: **APIs**, **data layers**, **polished interfaces**, and the **operational hardening** that keeps them dependable. I continue to advance that practice at the intersection of **software engineering** and **applied artificial intelligence**.
+
+**Master of Science in Artificial Intelligence** (in progress) — **University of Michigan–Flint**. **Concentration:** **Augmented and Virtual Reality**. Graduate research examines how **large language models** and **intelligent agents** integrate with **immersive and spatial computing** — complementing long-form industry experience with formal depth in **AI**, **perception**, and **human–computer interaction** at scale.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-khurramshafique.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://khurramshafique.com)
 [![X](https://img.shields.io/badge/Follow-%40kskhan77-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kskhan77)
@@ -17,14 +23,14 @@
 
 ---
 
-## Academic journey
+## Education & credentials
 
 | | |
 |---|---|
-| **MS in Artificial Intelligence** | **University of Michigan–Flint** — *Current* |
-| **Concentration** | **AR/VR** & **Intelligent Agents** |
-| **Research focus** | Intersection of **Large Language Models (LLMs)** and **immersive environments** — how intelligent systems behave in spatial, embodied contexts. |
-| **BS in Computer Information Systems** | **University of Michigan–Flint** — *2022* |
+| **Master of Science in Artificial Intelligence** | **University of Michigan–Flint** — *In progress* |
+| **Concentration** | **Augmented and Virtual Reality** |
+| **Research emphasis** | **Large language models (LLMs)** and **intelligent agents** in **immersive environments** — behavior, tooling, and integration of intelligent systems in **spatial and embodied** contexts. |
+| **Bachelor of Science in Computer Information Systems** | **University of Michigan–Flint** — *2022* |
 
 ---
 
@@ -37,15 +43,23 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 - **Starboard** — Architected and developed a **high-performance Load Board System** for **real-time freight matching** and logistics efficiency.
 - **COSMOS** — Contributed to a **Transportation Management System (TMS)** that streamlines workflows from **dispatch through delivery**.
 
-**Stack in production:** React, Next.js, Django, Laravel, PostgreSQL (alongside PHP/CMS and JVM stacks reflected in the badge section below).
+**Stack in production:** React, Next.js, Django, Laravel, and PostgreSQL — plus PHP/CMS and JVM-oriented stacks where the product calls for them (see badges below).
 
 ---
 
 ## Current initiatives
 
-- **TownScout** — Leading a group project for **CSC-580**: a web application for **exploring local history** and **community events**.
-- **AI agents** — Building **custom LLM-based agents** to automate parts of the **software development lifecycle** (tool use, planning, retrieval-grounded workflows).
-- **XR development** — Experimenting with **augmented reality** interfaces on **VITURE Luma Ultra** hardware, aligned with my **AR/VR** graduate concentration.
+- **TownScout** — Leading engineering for **TownScout** (**CSC-580**): a web platform for **local history** and **community events**, delivered with the same product discipline as commercial work.
+- **AI agents** — Building **production-oriented LLM-based agents** and **multi-step workflows** to automate portions of the **software delivery lifecycle** (tool use, planning, **RAG**, and governance-aware automation).
+- **XR development** — **Augmented reality** prototyping on **VITURE Luma Ultra** hardware, aligned with graduate concentration in **augmented and virtual reality** and with broader **immersive interface** research.
+
+---
+
+## What I’m focused on
+
+- **Product-quality delivery** — architecture that survives scale, maintainable codebases, and UX that respects operators and end users.
+- **Full-stack ownership** — schema design, services, front ends, and deployment with measurable **SLA-minded** reliability.
+- **AI at production depth** — **agents**, **retrieval**, and model integration where they improve outcomes — not as demos, but as **auditable**, **testable** components of real systems.
 
 ---
 
@@ -85,17 +99,43 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
   <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla" />
 </p>
 
-<p align="left"><strong>Data &amp; infrastructure</strong></p>
+<p align="left"><strong>Databases &amp; data stores</strong> <em>(relational, document, cache, search, vector)</em></p>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle Database" />
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon%20dynamodb&logoColor=white" alt="Amazon DynamoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" alt="Apache Cassandra" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Chroma-FFDE59?style=for-the-badge" alt="Chroma vector DB" />
+  <img src="https://img.shields.io/badge/Weaviate-000000?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate" />
+</p>
+
+<p align="left"><strong>Cloud, DevOps &amp; platform</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <p align="left"><strong>AI, agents &amp; retrieval</strong></p>
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
@@ -103,7 +143,9 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
   <img src="https://img.shields.io/badge/Multi--agent-Orchestration%20%26%20tool_use-0D9488?style=for-the-badge" alt="Multi-agent systems" />
 </p>
 
-<p align="left"><em>Badges summarize tools and patterns I work with; exact combinations depend on the product (e.g. Starboard/COSMOS vs agent/RAG prototypes).</em></p>
+<p align="left"><em>Badges reflect tools and patterns I use across professional delivery, graduate research, and independent builds — not every stack appears on every repository.</em></p>
+
+<p align="left"><em>Swap badges in or out so they match what you actually use day to day; accuracy reads more “pro” than a long generic list.</em></p>
 
 ---
 
@@ -120,20 +162,25 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 
 ---
 
-## Pinned repositories (quick guide)
+## Pinned repositories (how to curate your profile)
 
-| Pin | Why |
-|-----|-----|
-| **Strong original apps** (e.g. TownScout, Starboard-related public work if any) | Shows what you ship, not only tutorials. |
-| **Backend / TMS / data-heavy** repos | Signals depth beyond UI. |
-| **AI agents, RAG, or LangGraph experiments** | Aligns with your stated research and initiatives. |
+| Keep pinned | Why |
+|-------------|-----|
+| **Your best original app** (a real project you own, not a passive fork) | Shows *you* as the author and what you ship. |
+| **One strong API / backend, TMS, or data-heavy repo** | Signals depth beyond the frontend. |
+| **A polished UI or design-system–adjacent project** | Demonstrates craft and attention to detail. |
+| **AI agents, RAG, LangGraph, or LLM tooling** (if public) | Aligns with research and current initiatives. |
+| **TownScout**, **Starboard**/logistics demos, or similar **shipped** work (when shareable) | Concrete examples recruiters can open. |
+| **Optional: one “learning / experiments” repo** | Shows curiosity — label it clearly in the repo description. |
 
-Depin idle **forks** of huge lists unless you maintain them; prefer READMEs with **demos**, **screenshots**, and **honest tech tags**.
+**Depin or unpin** generic forks (e.g. large “awesome-*” lists, duplicate tutorial repos) unless you actively maintain them — they dilute the story. Prefer READMEs with **demos**, **screenshots**, and **honest tech tags**.
 
 ---
 
 <div align="center">
 
-**Thanks for visiting — open to collaborations at the intersection of full-stack engineering, logistics technology, and applied AI.**
+**Thanks for stopping by — always open to interesting collaborations and thoughtful conversations about building software.**
+
+**Also open to work at the intersection of full-stack engineering, logistics technology, and applied AI.**
 
 </div>
