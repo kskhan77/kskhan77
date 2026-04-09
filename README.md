@@ -4,9 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=3FB950&center=true&vCenter=true&width=1024&height=60&repeat=true&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
 
 <p align="center"><sub>Full narrative is in the intro below — the line above rotates so each phrase fits the canvas without clipping.</sub></p>
-
+ 
 ### Khurram Shafique
-
+  
 <p align="center"><strong>Large-scale application development</strong> — designing and operating <strong>production systems</strong> that combine <strong>modern AI</strong>, <strong>autonomous and multi-agent patterns</strong>, and disciplined software engineering from architecture through deployment.</p>
 
 **Principal focus:** **scalable, data-driven platforms** for demanding operational domains — especially **real-time logistics and transportation technology** — where **LLM-based agents**, **retrieval-grounded automation**, and **rigorous full-stack craft** have to work together under real load.
@@ -25,15 +25,29 @@
 
 ---
 
-## Education & credentials
+## 🎓 The Roadmap: Education & Specialization
 
-| | |
-|---|---|
-| **Master of Science in Artificial Intelligence** | **University of Michigan** — *Research* |
-| **Concentration** | **Augmented and Virtual Reality** |
-| **Research emphasis** | **Large language models (LLMs)** and **intelligent agents** in **immersive environments** — behavior, tooling, and integration of intelligent systems in **spatial and embodied** contexts. |
-| **Bachelor of Science in Computer Information Systems** | **University of Michigan–Flint** — *2022* |
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Academic Core</h3>
+      <ul>
+        <li><strong>MS in Artificial Intelligence</strong><br/><em>University of Michigan</em> (Expected 2027)<br/>🚀 Focus: LLMs, Multi-Agent Systems, AR/VR</li>
+        <li><strong>BS in Computer Information Systems</strong><br/><em>University of Michigan</em> (2022)</li>
+        <li><strong>Associate Degree</strong><br/><em>Lansing Community College</em></li>
+        <li><strong>Bachelor of Commerce</strong><br/><em>University of Peshawar</em></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Research & Concentration</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Concentration-AR%2FVR%20%26%20Spatial%20Computing-blueviolet?style=for-the-badge&logo=unity" /><br/>
+        <img src="https://img.shields.io/badge/Research-Intelligent%20Agents-3FB950?style=for-the-badge&logo=openai" /><br/>
+        <img src="https://img.shields.io/badge/Specialization-Full--Stack%20Logistics-58A6FF?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Professional experience & core projects
