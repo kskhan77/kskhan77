@@ -13,7 +13,7 @@
 
 , I have built and evolved **web applications** end to end across the **United States** market: **APIs**, **data layers**, **polished interfaces**, and the **operational hardening** that keeps them dependable. I continue to advance that practice at the intersection of **software engineering** and **applied artificial intelligence**.
 
-**Master of Science in Artificial Intelligence** (in progress) — **University of Michigan–Flint**. **Concentration:** **Augmented and Virtual Reality**. Graduate research examines how **large language models** and **intelligent agents** integrate with **immersive and spatial computing** — complementing long-form industry experience with formal depth in **AI**, **perception**, and **human–computer interaction** at scale.
+**Master of Science in Artificial Intelligence** (in progress) — **University of Michigan**. **Concentration:** **Augmented and Virtual Reality**. Graduate research examines how **large language models** and **intelligent agents** integrate with **immersive and spatial computing** — complementing long-form industry experience with formal depth in **AI**, **perception**, and **human–computer interaction** at scale.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-khurramshafique.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://khurramshafique.com)
 [![X](https://img.shields.io/badge/Follow-%40kskhan77-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kskhan77)
@@ -29,7 +29,7 @@
 
 | | |
 |---|---|
-| **Master of Science in Artificial Intelligence** | **University of Michigan–Flint** — *In progress* |
+| **Master of Science in Artificial Intelligence** | **University of Michigan** — *Research* |
 | **Concentration** | **Augmented and Virtual Reality** |
 | **Research emphasis** | **Large language models (LLMs)** and **intelligent agents** in **immersive environments** — behavior, tooling, and integration of intelligent systems in **spatial and embodied** contexts. |
 | **Bachelor of Science in Computer Information Systems** | **University of Michigan–Flint** — *2022* |
@@ -199,7 +199,14 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
   <img width="720" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote card (Tokyo Night theme)" />
 </p>
 
-<p align="center"><strong>Contribution snake</strong> — <sub>Same generator as <a href="https://github.com/Platane/snk">Platane/snk</a>: push <code>.github/workflows/snake.yml</code> to <strong>kskhan77/kskhan77</strong> (not a different repo), enable Actions <strong>read/write</strong>, then <strong>Run workflow</strong>. SVGs must exist at <code>output/github-snake.svg</code> and <code>output/github-snake-dark.svg</code>.</sub></p>
+<p align="center"><strong>Contribution Snake</strong></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
+  </picture>
+</p>
 <!-- Official dark/light pattern from Platane/snk README -->
 <p align="center">
   <picture>
@@ -224,22 +231,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
   <img src="https://komarev.com/ghpvc/?username=kskhan77&label=Profile+views&color=3fb950&style=flat" alt="Profile views" />
 </p>
 
----
-
-## Pinned repositories (how to curate your profile)
-
-| Keep pinned | Why |
-|-------------|-----|
-| **Your best original app** (a real project you own, not a passive fork) | Shows *you* as the author and what you ship. |
-| **One strong API / backend, TMS, or data-heavy repo** | Signals depth beyond the frontend. |
-| **A polished UI or design-system–adjacent project** | Demonstrates craft and attention to detail. |
-| **AI agents, RAG, LangGraph, or LLM tooling** (if public) | Aligns with research and current initiatives. |
-| **TownScout**, **Starboard**/logistics demos, or similar **shipped** work (when shareable) | Concrete examples recruiters can open. |
-| **Optional: one “learning / experiments” repo** | Shows curiosity — label it clearly in the repo description. |
-
-**Depin or unpin** generic forks (e.g. large “awesome-*” lists, duplicate tutorial repos) unless you actively maintain them — they dilute the story. Prefer READMEs with **demos**, **screenshots**, and **honest tech tags**.
-
----
+ 
 
 <div align="center">
 
