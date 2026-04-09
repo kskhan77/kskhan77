@@ -2,14 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=3FB950&center=true&vCenter=true&width=1024&height=60&repeat=true&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
 
-<p align="center"><sub>Full narrative is in the intro below — the line above rotates so each phrase fits the canvas without clipping.</sub></p>
-
+ 
 <p align="center">
-  <a href="https://khurramshafique.com"><img src="https://img.shields.io/badge/Portfolio-khurramshafique.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/kskhan77"><img src="https://img.shields.io/badge/LinkedIn-kskhan77-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/kskhan77"><img src="https://img.shields.io/badge/X-@kskhan77-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://facebook.com/kskhan77"><img src="https://img.shields.io/badge/Facebook-kskhan77-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://github.com/kskhan77?tab=followers"><img src="https://img.shields.io/github/followers/kskhan77?label=Followers&style=for-the-badge&logo=github&color=24292f" alt="GitHub followers" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
+  </picture>
 </p>
 
 ### Khurram Shafique
@@ -23,9 +22,11 @@
 <p align="center"><strong>Master of Science in Artificial Intelligence</strong> (in progress) — <strong>University of Michigan</strong>. <strong>Concentration:</strong> <strong>Augmented and Virtual Reality</strong>. Graduate research examines how <strong>large language models</strong> and <strong>intelligent agents</strong> integrate with <strong>immersive and spatial computing</strong> — complementing long-form industry experience with formal depth in <strong>AI</strong>, <strong>perception</strong>, and <strong>human–computer interaction</strong> at scale.</p>
 
 <p align="center">
-<a href="https://khurramshafique.com">[![Portfolio](https://img.shields.io/badge/Portfolio-khurramshafique.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://khurramshafique.com)</a>
-<a href="https://x.com/kskhan77">[![X](https://img.shields.io/badge/Follow-%40kskhan77-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kskhan77)</a>
-<a href="https://github.com/kskhan77?tab=followers">[![GitHub followers](https://img.shields.io/github/followers/kskhan77?label=Followers&style=for-the-badge&logo=github&color=24292f)](https://github.com/kskhan77?tab=followers)</a>
+  <a href="https://khurramshafique.com"><img src="https://img.shields.io/badge/Portfolio-khurramshafique.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/kskhan77"><img src="https://img.shields.io/badge/LinkedIn-kskhan77-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/kskhan77"><img src="https://img.shields.io/badge/X-@kskhan77-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://facebook.com/kskhan77"><img src="https://img.shields.io/badge/Facebook-kskhan77-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://github.com/kskhan77?tab=followers"><img src="https://img.shields.io/github/followers/kskhan77?label=Followers&style=for-the-badge&logo=github&color=24292f" alt="GitHub followers" /></a>
 </p>
 
 </div>
