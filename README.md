@@ -32,8 +32,7 @@
 </div>
 
 <br/>
-### 🌐 Spatial Contribution Data
-
+ 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/main/profile-3d-contrib/profile-night-green-animate.svg" />
