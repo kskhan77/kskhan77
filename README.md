@@ -215,7 +215,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
     <img alt="Contribution snake on the GitHub contribution grid" src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
   </picture>
 </p>
-<p align="center"><sub>If the image is blank: open <strong>Actions</strong> on <code>kskhan77</code> and confirm the last run succeeded, or try the <a href="https://platane.github.io/snk/">interactive demo</a>.</sub></p>
+ 
 
 <p align="center"><strong>Quick break</strong></p>
 <p align="center">
