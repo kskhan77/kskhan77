@@ -27,7 +27,7 @@ Since **2009**, I have built and evolved **web applications** end to end across 
 
 | | |
 |---|---|
-| **Master of Science in Artificial Intelligence** | **University of Michigan–Flint** — *In progress* |
+| **Master of Science in Artificial Intelligence** | **University of Michigan** |
 | **Concentration** | **Augmented and Virtual Reality** |
 | **Research emphasis** | **Large language models (LLMs)** and **intelligent agents** in **immersive environments** — behavior, tooling, and integration of intelligent systems in **spatial and embodied** contexts. |
 | **Bachelor of Science in Computer Information Systems** | **University of Michigan–Flint** — *2022* |
