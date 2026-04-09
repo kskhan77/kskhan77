@@ -191,22 +191,15 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 <p align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=kskhan77&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub profile trophies for kskhan77" />
 </p>
-<p align="center"><sub>Backup if this image breaks: <a href="https://trophy.ryglcloud.net/?username=kskhan77&theme=darkhub&no-frame=true&column=7">trophy.ryglcloud.net</a> (open link — same trophies).</sub></p>
-
-<p align="center"><strong>Live GitHub stats (Shields + public API)</strong></p>
+<p align="center"><strong>Live Stats for Khurram Shafique</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkskhan77&query=%24.public_repos&label=Public%20repos&logo=github&logoColor=white&color=3fb950&style=for-the-badge" alt="Public repository count" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkskhan77&query=%24.public_gists&label=Public%20gists&logo=github&logoColor=white&color=58a6ff&style=for-the-badge" alt="Public gists count" />
   <img src="https://img.shields.io/github/followers/kskhan77?label=Followers&logo=github&logoColor=white&color=24292f&style=for-the-badge" alt="GitHub followers" />
 </p>
-
-<p align="center"><strong>Random dev joke</strong> — refresh the profile page for a new one.</p>
-<p align="center"><sub>High-contrast colors for GitHub dark UI: bright question text, green answer, dark card.</sub></p>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=161b22&qColor=f0f6fc&aColor=3fb950&codeColor=79c0ff" alt="Random developer joke" />
-</p>
-
-<p align="center"><strong>Quote cards</strong> — <sub>Themes chosen for readable text on dark profile pages.</sub></p>
+</p> 
 <p align="center">
   <img width="720" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random quote card (Algolia theme)" />
 </p>
@@ -221,15 +214,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/output/github-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/output/github-snake.svg" />
   </picture>
-</p>
-<!-- Official dark/light pattern from Platane/snk README -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
-    <img alt="Contribution snake on the GitHub contribution grid" src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
-  </picture>
-</p>
+</p> 
  
 
 <p align="center"><strong>Quick break</strong></p>
