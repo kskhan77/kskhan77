@@ -1,7 +1,9 @@
- <div align="center">
+<div align="center">
 
-<!-- Hero: animated typing (readme-typing-svg by DenverCoder1) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=3FB950&center=true&vCenter=true&width=780&height=55&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
+<!-- Typing hero: wide canvas + size 20 so long lines are not clipped; semicolons = rotating phrases -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=3FB950&center=true&vCenter=true&width=1024&height=60&repeat=true&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
+
+<p align="center"><sub>Full narrative is in the intro below — the line above rotates so each phrase fits the canvas without clipping.</sub></p>
 
 ### Khurram Shafique
 
@@ -27,7 +29,7 @@ Since **2009**, I have built and evolved **web applications** end to end across 
 
 | | |
 |---|---|
-| **Master of Science in Artificial Intelligence** | **University of Michigan** |
+| **Master of Science in Artificial Intelligence** | **University of Michigan–Flint** — *In progress* |
 | **Concentration** | **Augmented and Virtual Reality** |
 | **Research emphasis** | **Large language models (LLMs)** and **intelligent agents** in **immersive environments** — behavior, tooling, and integration of intelligent systems in **spatial and embodied** contexts. |
 | **Bachelor of Science in Computer Information Systems** | **University of Michigan–Flint** — *2022* |
@@ -158,6 +160,44 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 
 <p align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=kskhan77&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3FB950&fire=58A6FF&currStreakLabel=Current%20streak" alt="Contribution streak for kskhan77" />
+</p>
+
+---
+
+## Profile extras
+
+<p align="center"><strong>Contribution timeline</strong> — last year of public activity (auto-updates).</p>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kskhan77&theme=github-compact&hide_border=true&area=true&color=3fb950&line=58a6ff&point=3fb950&custom_title=Contribution%20activity" alt="GitHub contribution activity graph for kskhan77" />
+</p>
+
+<p align="center"><strong>Trophies</strong> — milestones and habits on GitHub.</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kskhan77&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub profile trophies for kskhan77" />
+</p>
+
+<p align="center"><strong>Random dev joke</strong> — refresh the profile page for a new one.</p>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=3fb950&bgColor=0d1117&aColor=c9d1d9&codeColor=58a6ff" alt="Random developer joke" />
+</p>
+
+<p align="center"><strong>Quote card</strong></p>
+<p align="center">
+  <img width="720" src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random quote card" />
+</p>
+
+<p align="center"><strong>Quick break</strong></p>
+<p align="center">
+  <a href="https://playtictactoe.org/" title="Play tic-tac-toe in the browser"><img src="https://img.shields.io/badge/Play-Tic--Tac--Toe-3FB950?style=for-the-badge" alt="Play tic-tac-toe" /></a>
+  <a href="https://xkcd.com/303/" title="Classic compiling comic"><img src="https://img.shields.io/badge/Read-xkcd+%23303-58A6FF?style=for-the-badge" alt="xkcd #303 — compiling" /></a>
+</p>
+
+<!-- Optional: contribution snake (Platane/snk). After you add the workflow to this repo, uncomment:
+<p align="center"><img src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-contribution-grid-snake.svg" alt="Contribution snake" /></p>
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kskhan77&label=Profile+views&color=3fb950&style=flat" alt="Profile views" />
 </p>
 
 ---
