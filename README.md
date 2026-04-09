@@ -21,7 +21,7 @@
     </tr>
   </table>
   <br/>
-  <a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+reset">🔄 Reset Game</a>
+ <a href="https://github.com/kskhan77/kskhan77/issues/new?title=tttm%3A+reset">🔄 Reset Game</a>
 </div>
 
 
