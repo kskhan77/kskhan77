@@ -5,11 +5,11 @@
 <p align="center"><sub>Full narrative is in the intro below — the line above rotates so each phrase fits the canvas without clipping.</sub></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
-  </picture>
+  <a href="https://khurramshafique.com"><img src="https://img.shields.io/badge/Portfolio-khurramshafique.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/kskhan77"><img src="https://img.shields.io/badge/LinkedIn-kskhan77-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/kskhan77"><img src="https://img.shields.io/badge/X-@kskhan77-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://facebook.com/kskhan77"><img src="https://img.shields.io/badge/Facebook-kskhan77-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://github.com/kskhan77?tab=followers"><img src="https://img.shields.io/github/followers/kskhan77?label=Followers&style=for-the-badge&logo=github&color=24292f" alt="GitHub followers" /></a>
 </p>
 
 ### Khurram Shafique
