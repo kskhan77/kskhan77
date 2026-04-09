@@ -202,9 +202,9 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 <p align="center"><strong>Contribution Snake</strong></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kskhan77/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/output/github-snake.svg" />
   </picture>
 </p>
 <!-- Official dark/light pattern from Platane/snk README -->
