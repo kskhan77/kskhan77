@@ -1,9 +1,9 @@
 <div align="center">
-<!-- Typing hero: wide canvas + size 20 so long lines are not clipped; semicolons = rotating phrases -->
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=3FB950&center=true&vCenter=true&width=1024&height=60&repeat=true&lines=Hi%2C+I'm+Khurram+%F0%9F%91%8B;Building+scalable+applications+with+AI+%26+intelligent+agents;Full--stack+web+engineering+since+2009;I+ship+reliable+systems+and+thoughtful+UIs;Enterprise+logistics%2C+LLMs%2C+multi--agent+workflows%2C+%26+immersive+tech;Architecting+APIs%2C+data+layers%2C+UIs%2C+%26+production+AI+systems" alt="Animated introduction — Khurram Shafique" />
+
 <p align="center"><sub>Full narrative is in the intro below — the line above rotates so each phrase fits the canvas without clipping.</sub></p>
- 
- 
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake-dark.svg" />
@@ -11,17 +11,22 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kskhan77/kskhan77/output/github-snake.svg" />
   </picture>
 </p>
+
+### Khurram Shafique
+
 <p align="center"><strong>Large-scale application development</strong> — designing and operating <strong>production systems</strong> that combine <strong>modern AI</strong>, <strong>autonomous and multi-agent patterns</strong>, and disciplined software engineering from architecture through deployment.</p>
 
-**Principal focus:** **scalable, data-driven platforms** for demanding operational domains — especially **real-time logistics and transportation technology** — where **LLM-based agents**, **retrieval-grounded automation**, and **rigorous full-stack craft** have to work together under real load.
+<p align="center"><strong>Principal focus:</strong> <strong>scalable, data-driven platforms</strong> for demanding operational domains — especially <strong>real-time logistics and transportation technology</strong> — where <strong>LLM-based agents</strong>, <strong>retrieval-grounded automation</strong>, and <strong>rigorous full-stack craft</strong> have to work together under real load.</p>
 
-, I have built and evolved **web applications** end to end across the **United States** market: **APIs**, **data layers**, **polished interfaces**, and the **operational hardening** that keeps them dependable. I continue to advance that practice at the intersection of **software engineering** and **applied artificial intelligence**.
+<p align="center">I have built and evolved <strong>web applications</strong> end to end across the <strong>United States</strong> market: <strong>APIs</strong>, <strong>data layers</strong>, <strong>polished interfaces</strong>, and the <strong>operational hardening</strong> that keeps them dependable. I continue to advance that practice at the intersection of <strong>software engineering</strong> and <strong>applied artificial intelligence</strong>.</p>
 
-**Master of Science in Artificial Intelligence** (in progress) — **University of Michigan**. **Concentration:** **Augmented and Virtual Reality**. Graduate research examines how **large language models** and **intelligent agents** integrate with **immersive and spatial computing** — complementing long-form industry experience with formal depth in **AI**, **perception**, and **human–computer interaction** at scale.
+<p align="center"><strong>Master of Science in Artificial Intelligence</strong> (in progress) — <strong>University of Michigan</strong>. <strong>Concentration:</strong> <strong>Augmented and Virtual Reality</strong>. Graduate research examines how <strong>large language models</strong> and <strong>intelligent agents</strong> integrate with <strong>immersive and spatial computing</strong> — complementing long-form industry experience with formal depth in <strong>AI</strong>, <strong>perception</strong>, and <strong>human–computer interaction</strong> at scale.</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-khurramshafique.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://khurramshafique.com)
-[![X](https://img.shields.io/badge/Follow-%40kskhan77-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kskhan77)
-[![GitHub followers](https://img.shields.io/github/followers/kskhan77?label=Followers&style=for-the-badge&logo=github&color=24292f)](https://github.com/kskhan77?tab=followers)
+<p align="center">
+<a href="https://khurramshafique.com">[![Portfolio](https://img.shields.io/badge/Portfolio-khurramshafique.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://khurramshafique.com)</a>
+<a href="https://x.com/kskhan77">[![X](https://img.shields.io/badge/Follow-%40kskhan77-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kskhan77)</a>
+<a href="https://github.com/kskhan77?tab=followers">[![GitHub followers](https://img.shields.io/github/followers/kskhan77?label=Followers&style=for-the-badge&logo=github&color=24292f)](https://github.com/kskhan77?tab=followers)</a>
+</p>
 
 </div>
 
@@ -52,9 +57,10 @@
     </td>
   </tr>
 </table>
+
 ---
 
-## Professional experience & core projects
+## 💼 Professional experience & core projects
 
 I specialize in **complex, data-driven platforms** that solve **real-world logistical and operational** problems end to end.
 
@@ -67,7 +73,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 
 ---
 
-## Current initiatives
+## 🚀 Current initiatives
 
 - **TownScout** — Leading engineering for **TownScout** (**CSC-580**): a web platform for **local history** and **community events**, delivered with the same product discipline as commercial work.
 - **AI agents** — Building **production-oriented LLM-based agents** and **multi-step workflows** to automate portions of the **software delivery lifecycle** (tool use, planning, **RAG**, and governance-aware automation).
@@ -75,7 +81,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 
 ---
 
-## What I’m focused on
+## 🎯 What I’m focused on
 
 - **Product-quality delivery** — architecture that survives scale, maintainable codebases, and UX that respects operators and end users.
 - **Full-stack ownership** — schema design, services, front ends, and deployment with measurable **SLA-minded** reliability.
@@ -83,7 +89,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
 <p align="left"><strong>Languages</strong></p>
 <p align="left">
@@ -163,7 +169,9 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
   <img src="https://img.shields.io/badge/Multi--agent-Orchestration%20%26%20tool_use-0D9488?style=for-the-badge" alt="Multi-agent systems" />
 </p>
 
- ### 🛠️ System Architecture: The Full-Stack Bridge
+---
+
+## 🏗️ System Architecture: The Full-Stack Bridge
 
 | Layer | Technology | Responsibility |
 | :--- | :--- | :--- |
@@ -175,9 +183,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 
 ---
 
-## GitHub activity
-
- 
+## 📊 GitHub activity
 
 <p align="center">
   <img width="90%" src="https://streak-stats.demolab.com?user=kskhan77&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=3FB950&fire=58A6FF&currStreakLabel=Current%20streak" alt="Contribution streak for kskhan77" />
@@ -185,7 +191,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 
 ---
 
-## Profile extras
+## ✨ Profile extras
 
 <p align="center"><strong>Contribution timeline</strong> — last year of public activity (auto-updates).</p>
 <p align="center">
@@ -193,27 +199,30 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 </p>
 
 <p align="center"><strong>Trophies</strong> — milestones and habits on GitHub.</p>
-<p align="center"><sub>The default <code>github-profile-trophy.vercel.app</code> host is often <strong>paused (503)</strong> on Vercel; this image uses a community mirror of the same trophy SVG.</sub></p>
 <p align="center">
   <img src="https://github-profile-trophy-kannan.vercel.app/?username=kskhan77&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub profile trophies for kskhan77" />
 </p>
+
 <p align="center"><strong>Live Stats for Khurram Shafique</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkskhan77&query=%24.public_repos&label=Public%20repos&logo=github&logoColor=white&color=3fb950&style=for-the-badge" alt="Public repository count" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkskhan77&query=%24.public_gists&label=Public%20gists&logo=github&logoColor=white&color=58a6ff&style=for-the-badge" alt="Public gists count" />
   <img src="https://img.shields.io/github/followers/kskhan77?label=Followers&logo=github&logoColor=white&color=24292f&style=for-the-badge" alt="GitHub followers" />
 </p>
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=161b22&qColor=f0f6fc&aColor=3fb950&codeColor=79c0ff" alt="Random developer joke" />
-</p> 
+</p>
+
 <p align="center">
   <img width="720" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random quote card (Algolia theme)" />
 </p>
+
 <p align="center">
   <img width="720" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote card (Tokyo Night theme)" />
 </p>
 
- 
+---
 
 <p align="center"><strong>Quick break</strong></p>
 <p align="center">
@@ -221,6 +230,7 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
   <a href="https://xkcd.com/303/" title="Classic compiling comic"><img src="https://img.shields.io/badge/Read-xkcd+%23303-58A6FF?style=for-the-badge" alt="xkcd #303 — compiling" /></a>
   <a href="https://http.cat/418" title="HTTP 418 — I’m a teapot"><img src="https://img.shields.io/badge/HTTP-418%20Teapot-FF6B6B?style=for-the-badge" alt="HTTP 418 teapot" /></a>
 </p>
+
 <p align="center">
   <a href="https://http.cat/418"><img width="420" src="https://http.cat/418.jpg" alt="HTTP 418 cat from http.cat" /></a>
 </p>
@@ -228,8 +238,6 @@ I specialize in **complex, data-driven platforms** that solve **real-world logis
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kskhan77&label=Profile+views&color=3fb950&style=flat" alt="Profile views" />
 </p>
-
- 
 
 <div align="center">
 
